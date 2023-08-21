@@ -1,0 +1,8 @@
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppAssignment7\ConAppAssignment7\bin\Debug\ConAppAssignment7.exe.config
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppAssignment7\ConAppAssignment7\bin\Debug\ConAppAssignment7.exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppAssignment7\ConAppAssignment7\bin\Debug\ConAppAssignment7.pdb
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppAssignment7\ConAppAssignment7\obj\Debug\ConAppAssignment7.csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppAssignment7\ConAppAssignment7\obj\Debug\ConAppAssignment7.csproj.SuggestedBindingRedirects.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppAssignment7\ConAppAssignment7\obj\Debug\ConAppAssignment7.csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppAssignment7\ConAppAssignment7\obj\Debug\ConAppAssignment7.exe
+C:\Users\basan\OneDrive\Desktop\Training\Day1\ConAppAssignment7\ConAppAssignment7\obj\Debug\ConAppAssignment7.pdb
